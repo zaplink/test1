@@ -1,7 +1,7 @@
 // import React from "react";
-import "./home.css";
+import "./thakshala.css";
 
-export default function Home() {
+export default function Thakshala() {
   return (
     <div>
       <body>
