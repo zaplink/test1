@@ -10,12 +10,13 @@
     margin-top: 20px;
   }
   
-  button {
+  .button-section {
     padding: 10px 20px;
-    background-color: #4CAF50;
-    color: white;
+    font-size: 5px;
+    background-color:#b9bbdd;
+    color: #d6dfcc;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer  
   
   }
