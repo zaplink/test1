@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+  }
+  
+  .exercise-section {
+    margin-bottom: 20px;
+  }
+  
+  .button-section {
+    margin-top: 20px;
+  }
+  
+  .button-section {
+    padding: 10px 20px;
+    font-size: 5px;
+    background-color:#b9bbdd;
+    color: #d6dfcc;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer  
+  
+  }

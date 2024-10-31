@@ -1,0 +1,73 @@
+/* Reset some default styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Background color for the page */
+  body {
+    background-color: #e6e8e2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  /* Header section styling */
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 10%;
+  }
+  
+  h1 {
+    font-size: 3.5em;
+    color: #333;
+  }
+  
+  /* Button styling */
+  .button {
+    background-color: #9980a3;
+    color: #333;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 2em;
+  }
+  
+  .button:hover {
+    background-color: #b88fac;
+  }
+  
+  /* Table styling */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f7f2eb;
+  }
+  
+  th, td {
+    border: 3px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    font-size: 1em;
+    width: 20%; /* Ensures all columns have the same width */
+  }
+  
+  th {
+    background-color: #c2bd95;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  td {
+    color: #333;
+  }
+  
